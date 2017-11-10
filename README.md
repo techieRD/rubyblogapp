@@ -4,7 +4,7 @@ This is my practice invoicing application
 Powerful software
 =================
 
-###Welcome to the repository
+### Welcome to the repository
 
 feel free to access my portfolio
 
@@ -20,7 +20,7 @@ feel free to access my portfolio
 * Rapid Development
 + Tested
 - 24/7 support
-- 
+
 ### Reasons to choose use
 
 1. price
