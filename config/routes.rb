@@ -13,5 +13,7 @@ Rails.application.routes.draw do
 
   resources :invoices
   
-  root to: 'invoices#index'
+  root to: 'welcome#index'
+  
+  
 end
